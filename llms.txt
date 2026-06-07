@@ -1,0 +1,60 @@
+# Laboratoriomecanicadesuelos — Huelva
+
+> Geotechnical engineering services in Huelva, España.
+
+## Services
+- [Aislacion Sismica](https://huelva.laboratoriomecanicadesuelos.org/aislacion-sismica/)
+- [Anclajes](https://huelva.laboratoriomecanicadesuelos.org/anclajes/)
+- [Calicatas](https://huelva.laboratoriomecanicadesuelos.org/calicatas/)
+- [Cbr Vial](https://huelva.laboratoriomecanicadesuelos.org/cbr-vial/)
+- [Cimentaciones](https://huelva.laboratoriomecanicadesuelos.org/cimentaciones/)
+- [Cimentaciones Superficiales](https://huelva.laboratoriomecanicadesuelos.org/cimentaciones-superficiales/)
+- [Columnas Grava](https://huelva.laboratoriomecanicadesuelos.org/columnas-grava/)
+- [Densidad Cono Arena](https://huelva.laboratoriomecanicadesuelos.org/densidad-cono-arena/)
+- [Ensayo Cpt](https://huelva.laboratoriomecanicadesuelos.org/ensayo-cpt/)
+- [Ensayos Proctor](https://huelva.laboratoriomecanicadesuelos.org/ensayos-proctor/)
+- [Estabilidad Taludes](https://huelva.laboratoriomecanicadesuelos.org/estabilidad-taludes/)
+- [Excavaciones Profundas](https://huelva.laboratoriomecanicadesuelos.org/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://huelva.laboratoriomecanicadesuelos.org/excavaciones-subterraneo/)
+- [Exploracion](https://huelva.laboratoriomecanicadesuelos.org/exploracion/)
+- [Geofisica](https://huelva.laboratoriomecanicadesuelos.org/geofisica/)
+- [Geotecnia Vial](https://huelva.laboratoriomecanicadesuelos.org/geotecnia-vial/)
+- [Granulometria](https://huelva.laboratoriomecanicadesuelos.org/granulometria/)
+- [Grouting](https://huelva.laboratoriomecanicadesuelos.org/grouting/)
+- [Inyecciones](https://huelva.laboratoriomecanicadesuelos.org/inyecciones/)
+- [Laboratorio In Situ](https://huelva.laboratoriomecanicadesuelos.org/laboratorio-in-situ/)
+- [Laboratorio Lab](https://huelva.laboratoriomecanicadesuelos.org/laboratorio-lab/)
+- [Licuefaccion](https://huelva.laboratoriomecanicadesuelos.org/licuefaccion/)
+- [Limites Atterberg](https://huelva.laboratoriomecanicadesuelos.org/limites-atterberg/)
+- [Losa De Cimentacion](https://huelva.laboratoriomecanicadesuelos.org/losa-de-cimentacion/)
+- [Losas Fundacion](https://huelva.laboratoriomecanicadesuelos.org/losas-fundacion/)
+- [Masw](https://huelva.laboratoriomecanicadesuelos.org/masw/)
+- [Masw Vs30](https://huelva.laboratoriomecanicadesuelos.org/masw-vs30/)
+- [Mejoramiento](https://huelva.laboratoriomecanicadesuelos.org/mejoramiento/)
+- [Microzonificacion Sismica](https://huelva.laboratoriomecanicadesuelos.org/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://huelva.laboratoriomecanicadesuelos.org/monitoreo-excavaciones/)
+- [Muros Contencion](https://huelva.laboratoriomecanicadesuelos.org/muros-contencion/)
+- [Pavimento Flexible](https://huelva.laboratoriomecanicadesuelos.org/pavimento-flexible/)
+- [Pavimento Rigido](https://huelva.laboratoriomecanicadesuelos.org/pavimento-rigido/)
+- [Permeabilidad Campo](https://huelva.laboratoriomecanicadesuelos.org/permeabilidad-campo/)
+- [Permeabilidad In Situ](https://huelva.laboratoriomecanicadesuelos.org/permeabilidad-in-situ/)
+- [Pilotes](https://huelva.laboratoriomecanicadesuelos.org/pilotes/)
+- [Refraccion Sismica](https://huelva.laboratoriomecanicadesuelos.org/refraccion-sismica/)
+- [Resistividad](https://huelva.laboratoriomecanicadesuelos.org/resistividad/)
+- [Resistividad Electrica Sev](https://huelva.laboratoriomecanicadesuelos.org/resistividad-electrica-sev/)
+- [Sismica](https://huelva.laboratoriomecanicadesuelos.org/sismica/)
+- [Sondaje Spt](https://huelva.laboratoriomecanicadesuelos.org/sondaje-spt/)
+- [Sondajes Spt](https://huelva.laboratoriomecanicadesuelos.org/sondajes-spt/)
+- [Taludes](https://huelva.laboratoriomecanicadesuelos.org/taludes/)
+- [Tomografia Sismica](https://huelva.laboratoriomecanicadesuelos.org/tomografia-sismica/)
+- [Triaxial](https://huelva.laboratoriomecanicadesuelos.org/triaxial/)
+- [Tuneles Suelo Blando](https://huelva.laboratoriomecanicadesuelos.org/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://huelva.laboratoriomecanicadesuelos.org/vibrocompactacion/)
+- [Zapatas](https://huelva.laboratoriomecanicadesuelos.org/zapatas/)
+
+## Contact
+- Website: https://huelva.laboratoriomecanicadesuelos.org/
+
+## About
+This site provides geotechnical engineering services in Huelva, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
